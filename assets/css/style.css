@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1,
+h2,
+section {
+  margin: 20px 0;
+}
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  margin: 0 auto;
+  padding: 30px;
+  width: 640px;
+}
+
+.name {
+  text-align: center;
+}
+
+.institution {
+  font-weight: bold;
+}
+
+.department {
+  font-style: italic;
+}
